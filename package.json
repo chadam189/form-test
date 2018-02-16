@@ -1,0 +1,19 @@
+{
+  "name": "form-test",
+  "version": "1.0.0",
+  "description": "form test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadam189/form-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chadam189/form-test/issues"
+  },
+  "homepage": "https://github.com/chadam189/form-test#readme"
+}
