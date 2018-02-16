@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/chadam189/form-test/issues"
   },
-  "homepage": "https://github.com/chadam189/form-test#readme"
+  "homepage": "https://github.com/chadam189/form-test#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "jest": "^22.3.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.0"
+  }
 }
